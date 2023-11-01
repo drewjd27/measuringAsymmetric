@@ -1,5 +1,5 @@
 # measuringAsymmetric
-Repository latihan untuk Descriptive Statistic - Measuring Asymmetric dengan Python menggunakan NumPy dan Pandas.
+Repository latihan untuk Descriptive Statistic - Measuring Asymmetric dengan Python menggunakan NumPy, Pandas, dan MatPlotLib.
 
 
 Measuring asymmetric merupakan konsep statistik yang digunakan untuk mengidentifikasi ketidaksimetrisan dalam sebuah distribusi data numerik. Parameter statistik yang umum digunakan dalam measuring asymmetric ialah skewness. Namun, sebelum kita membahas lebih jauh terkait parameter skewness, alangkah baiknya kita mulai dari konsep dasar terlebih dahulu yaitu definisi distribusi data. 
